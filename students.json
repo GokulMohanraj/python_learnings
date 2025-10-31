@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Gokul",
+        "age": "23",
+        "course": "MLOps"
+    },
+    {
+        "name": "Raj",
+        "age": "24",
+        "course": "Devops"
+    },
+    {
+        "name": "",
+        "age": "",
+        "course": ""
+    }
+]
